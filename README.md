@@ -17,7 +17,7 @@ Este proyecto es una aplicación de NestJS que permite eliminar el fondo de imá
 1. Clona el repositorio:
 
     ```sh
-    git clone <URL_DEL_REPOSITORIO>
+    git clone <https://github.com/NicolasAEV/eliminar-fondo-imagen.git>
     cd eliminar-fondo-imagen
     ```
 
